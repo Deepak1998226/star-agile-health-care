@@ -23,7 +23,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: loksai-np-service
+  name: banking-np-service
   labels:
     app: capstone_app
 spec:
